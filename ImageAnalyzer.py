@@ -4,9 +4,9 @@ from composio_crewai import ComposioToolSet, Action, App
 import os
 from langchain_groq import ChatGroq
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = ""
 
-llm=ChatGroq(model="groq/llama3-8b-8192", api_key="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")
+llm=ChatGroq(model="groq/llama3-8b-8192", api_key="")
 
 
 # Initialize the composio toolset with API key
