@@ -1,0 +1,19 @@
+The extracted information from the text data based on the user's query is:
+
+* A blockchain is an ever-growing ledger in a network, which keeps a track record of all transactions, changes and implementations that have taken place inside the network in a secure, ordered and immutable way.
+* Governments are using Blockchains to improve the service quality like safeguard the citizens property and cut the red tape by keeping the transparency in the system.
+* Charities: People were scared to donate on charities, as where his money will be used there was no transparency. By using Blockchain now there is transparency.
+* Ride-Sharing Economy: By using Blockchain in ride-sharing economy it gives the control to riders and drivers. Uber is using the same concept with the Blockchain.
+* Elimination of Counterfeit Products: De Beers diamond producer using Blockchain to keep the record of registered diamond to reduce the conflict of diamond transaction.
+* Contracts: Blockchain can the check contract rule, verify and process the transaction without any involvement by using Smart Contact Blockchain design.
+* Microloans: Blockchain technology can easily approve microloans and credited the amount to the appliers' account instantly. There are a lot companies which are using Blockchain to approve microloans like Paytm, Phonpe, Twigga, etc.
+* Decentralization − Every member of the blockchain framework has access to the entire distributed database. Unlike a centralized system, the consensus algorithm enables network control.
+* Anonymity − Each participant in the blockchain network has a unique address, rather than a user identity, ensuring user anonymity, particularly in a public blockchain structure.
+* Transparency − The blockchain system is highly resistant to corruption, as it would require significant computing power to completely overwrite the blockchain network.
+Key Factors of a Blockchain Networks
+Various essential factors that influence the working of blockchain architecture include −
+* Distributed structure − The distributed nature of a blockchain network is a key characteristic. It eliminates the necessity for a central authority and enables multiple nodes to engage in the network and verify transactions.
+* Blocks − A block is a data unit that comprises a group of transactions, a timestamp, and a reference to the previous block, also referred to as a hash. This forms a chain of blocks, hence the term blockchain.
+* Nodes − Nodes are the computers or devices that take part in the blockchain network. Each node retains a copy of the entire blockchain and aids in validating transactions and generating new blocks.
+* Consensus mechanism − To ensure data integrity, the network employs a consensus mechanism. This enables nodes to agree on transaction validity and helps prevent unauthorized modifications to the blockchain by malicious actors.
+* Public/private keys − Public and private keys are utilized to create a digital signature for each transaction. The public key encrypts the data, while the private key decrypts it.

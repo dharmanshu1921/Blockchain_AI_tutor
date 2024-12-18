@@ -1,0 +1,46 @@
+knowledge_retrieval_task:
+  description: >
+    Efficiently retrieve and filter specific information from provided or external texts based on the user's query. 
+    Utilize advanced text parsing and search mechanisms to ensure precision and relevance.
+  expected_output: >
+    A concise list of specific information and details extracted from the text, tailored to the user's query.
+  agent: knowledge_retrieval_agent
+
+query_response_task:
+  description: >
+    Provide clear, accurate, and educational responses to user queries related to AI and blockchain. Simplify complex topics 
+    and adapt explanations to the user's knowledge level.
+  expected_output: >
+    A well-structured, easy-to-understand response to the user's question, enhancing their understanding of the subject matter.
+  agent: query_responder_agent
+
+text_summarization_task:
+  description: >
+    Summarize provided content into a concise and informative overview, retaining essential points and eliminating extraneous details.
+  expected_output: >
+    A clear, concise summary highlighting the key points of the provided content.
+  agent: summariser_agent
+
+blockchain_tutoring_task:
+  description: >
+    Explain blockchain and AI concepts in simple terms, synthesizing insights from summarized text and external resources 
+    to enhance user understanding.
+  expected_output: >
+    A step-by-step explanation of blockchain and AI concepts, tailored to the user's level of knowledge and understanding.
+  agent: blockchain_ai_tutor
+
+image_analysis_task:
+  description: >
+    Analyze visual content provided by the user, extracting meaningful insights such as patterns, contextual information, 
+    and relevance to AI or blockchain concepts.
+  expected_output: >
+    A detailed interpretation of the visual content, including recognized elements and their relevance to the user's query.
+  agent: image_analyzer_agent
+
+code_analysis_task:
+  description: >
+    Analyze and explain code snippets related to AI and blockchain applications, identifying functionality, 
+    potential improvements, and areas of optimization.
+  expected_output: >
+    A comprehensive breakdown of the code, explaining its purpose, functionality, and any recommendations for improvement.
+  agent: code_query_agent

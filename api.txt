@@ -1,0 +1,8 @@
+GROQ_API_KEY= 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 || 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
+
+GEMINI_API_KEY=AIzaSyAaREBaPpdzBiKbQylUfJpxdJQxBmvlFE8  || AIzaSyDFIdGY6HPm6nFqDoucLYmdd5YpyUs5AWw || AIzaSyBJDjXggGAaKkwxTtU7tAx8IjRCB44B-rA
+
+python3 -m venv tutor
+source tutor/bin/activate
+
+SERPERDEV_TOOL=3617ece52b9ffd19365135ae6587d47a0cb5d93e

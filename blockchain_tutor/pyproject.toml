@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "blockchain_tutor"
+version = "0.1.0"
+description = "blockchain_tutor using crewAI"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<=3.13"
+crewai = { extras = ["tools"], version = ">=0.70.1,<1.0.0" }
+
+
+[tool.poetry.scripts]
+blockchain_tutor = "blockchain_tutor.main:run"
+run_crew = "blockchain_tutor.main:run"
+train = "blockchain_tutor.main:train"
+replay = "blockchain_tutor.main:replay"
+test = "blockchain_tutor.main:test"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
